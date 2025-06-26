@@ -8,7 +8,7 @@ The dataset I chose came from Kaggle. Here is the link to the dataset: https://w
 
 # Project Goal
 
-- Objective: Accurately detect fraudulent financial transactions using supervised machine learning.
+- Objective: Accurately detect fraudulent financial transactions using supervised machine learning with a neural network model.
 - Key Metric: Prioritise high recall to minimize undetected fraud cases, while maintaining acceptable precision to avoid too many false alarms.
 - Challenge: Handle high class imbalance (fraudulent vs. non-fraudulent cases) effectively through weight penalty and model tuning.
 
