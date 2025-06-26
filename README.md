@@ -4,7 +4,7 @@ This project is a deep learning-based financial fraud detection system, designed
 
 Built with a focus on real-world applicability, the project demonstrates key techniques in preprocessing, model training, performance optimization, and explainability, all aligned with the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework.
 
-The dataset I chose came from Kaggle and here is the link to the dataset: https://www.kaggle.com/code/kartik2khandelwal/predicting-fraudulent-transactions/input
+The dataset I chose came from Kaggle. Here is the link to the dataset: https://www.kaggle.com/code/kartik2khandelwal/predicting-fraudulent-transactions/input
 
 # Project Goal
 
