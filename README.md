@@ -32,4 +32,4 @@ The dataset I chose came from Kaggle. Here is the link to the dataset: https://w
 
 # Final Notes
 
-This project reflects a holistic and responsible approach to AI in finance, combining domain-relevant feature engineering, balanced model optimization, and interpretable outputs—all underpinned by CRISP-DM methodology. Contributions and feedback are welcome!
+This project reflects a holistic and responsible approach to AI in finance, combining domain-relevant feature engineering, balanced model optimization, and interpretable outputs—all underpinned by CRISP-DM methodology. Feedback of any kind are welcome!
