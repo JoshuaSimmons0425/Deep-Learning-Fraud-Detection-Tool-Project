@@ -19,36 +19,6 @@ The dataset I chose came from Kaggle. Here is the link to the dataset: https://w
 - PyTorch for deep learning (neural network modeling)
 - Matplotlib/Seaborn for visualizing evaluation metrics
 
-# Techniques & Features
-
-Exploretory Data Analysis
-
-- Class Occurances Visualization using a Histogram 
-- Summary statistics to evaulate the distributions and proporties of each feature
-- Boxplots & Histograms to examine distribution and detect outliers
-
-Data Preparation and Prepocessing:
-
-Feature construction using:
-- Transactional balance changes (e.g., newBalanceOrigin - oldBalanceOrigin)
-- Absolute and relative differences
-
-Missing value detection and population using:
-- Mode to populate a discrete value in a categorical feature
-- Mean to populate a continous value in a numerical feature
-
-Modelling:
-
-- Neural network with weighted loss (to counter class imbalance)
-- Threshold tuning to optimize recall/precision tradeoff
-
-Evaluation: 
-
-- Confusion matrix
-- Precision-Recall tradeoff graph
-- F1-score, precision and recall values
-- Model comparison using performance metrics under various thresholds
-
 # CRISP-DM Methodology in Practice
 
 | Phase                         | Implementation                                                                      |
